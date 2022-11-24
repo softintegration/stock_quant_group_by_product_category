@@ -1,0 +1,72 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* stock_quant_group_by_product_category
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 15.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-24 22:58+0000\n"
+"PO-Revision-Date: 2022-11-24 22:58+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: stock_quant_group_by_product_category
+#: model:ir.model.fields,field_description:stock_quant_group_by_product_category.field_stock_picking_force_cancel_confirm__create_uid
+msgid "Created by"
+msgstr ""
+
+#. module: stock_quant_group_by_product_category
+#: model:ir.model.fields,field_description:stock_quant_group_by_product_category.field_stock_picking_force_cancel_confirm__create_date
+msgid "Created on"
+msgstr ""
+
+#. module: stock_quant_group_by_product_category
+#: model:ir.model.fields,field_description:stock_quant_group_by_product_category.field_stock_picking_force_cancel_confirm__display_name
+msgid "Display Name"
+msgstr ""
+
+#. module: stock_quant_group_by_product_category
+#: model:ir.model,name:stock_quant_group_by_product_category.model_stock_picking_force_cancel_confirm
+msgid "Force cancel confirm"
+msgstr ""
+
+#. module: stock_quant_group_by_product_category
+#: model:ir.model.fields,field_description:stock_quant_group_by_product_category.field_stock_picking_force_cancel_confirm__id
+msgid "ID"
+msgstr ""
+
+#. module: stock_quant_group_by_product_category
+#: model:ir.model.fields,field_description:stock_quant_group_by_product_category.field_stock_picking_force_cancel_confirm____last_update
+msgid "Last Modified on"
+msgstr ""
+
+#. module: stock_quant_group_by_product_category
+#: model:ir.model.fields,field_description:stock_quant_group_by_product_category.field_stock_picking_force_cancel_confirm__write_uid
+msgid "Last Updated by"
+msgstr ""
+
+#. module: stock_quant_group_by_product_category
+#: model:ir.model.fields,field_description:stock_quant_group_by_product_category.field_stock_picking_force_cancel_confirm__write_date
+msgid "Last Updated on"
+msgstr ""
+
+#. module: stock_quant_group_by_product_category
+#: model:ir.model.fields,field_description:stock_quant_group_by_product_category.field_stock_quant__categ_id
+#: model_terms:ir.ui.view,arch_db:stock_quant_group_by_product_category.quant_search_view_inherited
+msgid "Product Category"
+msgstr "Catégorie d'article"
+
+#. module: stock_quant_group_by_product_category
+#: model:ir.model,name:stock_quant_group_by_product_category.model_stock_quant
+msgid "Quants"
+msgstr ""
+
+#. module: stock_quant_group_by_product_category
+#: model:ir.model.fields,help:stock_quant_group_by_product_category.field_stock_quant__categ_id
+msgid "Select category for the current product"
+msgstr ""
